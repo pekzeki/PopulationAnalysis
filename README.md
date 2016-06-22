@@ -4,7 +4,10 @@ Turkish	Statistical	Institute provides access to census data of Turkey. The proj
 
   - Population distribution w.r.t. gender, city.
   - Population in the urban and rural area. 
+  - ![alt tag](https://github.com/pekzeki/PopulationAnalysis/blob/master/output/average_urban_rural.svg)
   - The growth of metropolises.
+
+
 
 ### Version
 1.0
