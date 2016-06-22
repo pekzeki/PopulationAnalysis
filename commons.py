@@ -3,7 +3,7 @@
 '''
 Includes commons fuctions used by other scripts and modules 
 
-@author: Salih Zeki Irkdas, Refik Anil Bayraktar, Metin Gemici
+@author: pekzeki
 '''
 
 import os

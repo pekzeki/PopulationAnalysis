@@ -5,7 +5,7 @@ Reads all the CSV file inside 'data/' folder as a DataFrame
 Calculates total population of each city
 Plots it to a Histogram Chart for each year under output/ folder
 
-@author: Salih Zeki Irkdas, Refik Anil Bayraktar, Metin Gemici
+@author: pekzeki
 '''
 
 import commons
