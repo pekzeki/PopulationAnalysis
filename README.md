@@ -1,6 +1,6 @@
 # Population Analysis
 
-Turkish	Statistical	Institute provides access to census data of Turkey. The project analyzes the census data between 1965-2000 and plots basic graphs in order to reveal hidden important factors that leads to population growths and recession between those years. It helps to see;
+Turkish	Statistical	Institute provides access to census data of Turkey. The project analyzes the census data of Turkey between 1965-2000 and plots graphs in order to reveal hidden important factors that leads to population growths and recession between those years. It helps to see;
 
   - Population distribution w.r.t. gender, city.
   - Population in the urban and rural area. 
@@ -15,7 +15,7 @@ Turkish	Statistical	Institute provides access to census data of Turkey. The proj
 
 ### Tech
 
-The project uses a number of open source projects to work properly:
+The project requires several open source projects:
 
 * [Python] - General purpose programming language. 2.7+
 * [Pygal] - SVG charting library for pyhton. 
@@ -45,7 +45,6 @@ $ python evolution_urban_rural.py Ankara
 
  - Write Tests
  - Add Code Comments
- - Create GIF from SVGs programmatically. 
 
 ### License
 MIT
